@@ -41,9 +41,9 @@ variable "database_admin_password" {
 }
 
 variable "aws_access_key" {
-  default = "AKIATWSR5NLK2JJNCLMB"
+  default = "insert_access_key_here"
 }
 
 variable "aws_secret_key" {
-  default = "FA53a5jigwsr6R0HslRMi5xvyDsOsNiwcqI3CAOH"
+  default = "insert_secret_key_here"
 }
